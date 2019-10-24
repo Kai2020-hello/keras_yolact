@@ -1,0 +1,3 @@
+class config(object):
+    pass
+
